@@ -44,3 +44,8 @@
     width: 50%;
 
 }
+
+.Menu {
+  background-image: url("../images/backgrounds/foodsBg.jpg");
+  height: 90vh;
+}
