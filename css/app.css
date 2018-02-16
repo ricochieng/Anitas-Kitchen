@@ -2,5 +2,24 @@
     background-image: url("../images/landing.jpg");
     height: 90vh;
 
+}
+
+.header img {
+    float:none;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 50px;
+
+}
+
+.header p {
+
+    text-align: center;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-size: 250%;
 
 }
