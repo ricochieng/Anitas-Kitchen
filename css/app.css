@@ -28,3 +28,19 @@
 
       float:right;
 }
+
+.happyhour{
+      background-color: gray;
+
+}
+
+.partytime{
+      background-color: #ff4000;
+}
+
+
+.column {
+    float: left;
+    width: 50%;
+
+}
