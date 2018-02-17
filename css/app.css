@@ -1,10 +1,10 @@
-.header {
+#header {
     background-image: url("../images/landing.jpg");
     height: 90vh;
 
 }
 
-.header img {
+#header img {
     float:none;
     margin-left: auto;
     margin-right: auto;
@@ -13,7 +13,7 @@
 
 }
 
-.header p {
+#header p {
 
     text-align: center;
     color: white;
@@ -24,20 +24,36 @@
 
 }
 
-.topnav img {
+#topnav {
 
       float:right;
 }
 
-.happyhour{
+
+#topnav image {
+
+      float:right;
+}
+
+.happyhour {
       background-color: gray;
 
 }
 
-.partytime{
+.happyhour h3 {
+      text-align: center;
+
+}
+
+.partytime {
       background-color: #ff4000;
 }
 
+.partytime h3 {
+      color: white;
+      text-align: center;
+
+}
 
 .column {
     float: left;
@@ -48,4 +64,30 @@
 .Menu {
   background-image: url("../images/backgrounds/foodsBg.jpg");
   height: 90vh;
+}
+
+.food {
+    background-color: light gray;
+    overflow: hidden;
+    margin:0px;
+}
+
+.menu a {
+    float: right;
+    font-style: Impact, Charcoal, sans-serif;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.menu {
+    background-color: white;
+
+}
+.menu img {
+position:absolute;
 }
