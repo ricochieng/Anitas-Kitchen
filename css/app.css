@@ -42,6 +42,7 @@
 
 .happyhour h3 {
       text-align: center;
+      margin: auto;
 
 }
 
@@ -55,6 +56,42 @@
 
 }
 
+.row {
+
+  margin-top: 10%;
+  margin-bottom: 10%;
+  width: 1200px;
+  vertical-align:middle;
+
+}
+
+#foodsection {
+
+      vertical-align:middle;
+
+}
+
+#foodp {
+
+      vertical-align: middle;
+      margin-top: 20px;
+
+}
+
+#drinksection {
+
+      vertical-align: middle;
+      margin-top: 20px;
+
+}
+
+#drinkp {
+
+      vertical-align: middle;
+      margin-top: 20px;
+
+}
+
 .column {
     float: left;
     width: 50%;
@@ -64,30 +101,23 @@
 .Menu {
   background-image: url("../images/backgrounds/foodsBg.jpg");
   height: 90vh;
+  border: 3px solid red;
 }
 
-.food {
-    background-color: light gray;
-    overflow: hidden;
-    margin:0px;
-}
-
-.menu a {
-    float: right;
-    font-style: Impact, Charcoal, sans-serif;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 20px;
-    font-weight: bold;
+.innermenu {
+  border: 2px solid white;
+  width: 75%;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  background-color: white;
 
 }
 
-.menu {
-    background-color: white;
 
-}
-.menu img {
-position:absolute;
+.row {
+    margin-left: 20%;
+    margin-right: 20%;
+
 }
