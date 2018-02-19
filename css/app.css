@@ -1,5 +1,5 @@
 #header {
-    background-image: url("../images/landing.jpg");
+    background-image: url("landing.jpg");
     height: 90vh;
 
 }
@@ -100,7 +100,7 @@
 }
 
 .Menu {
-  background-image: url("../images/backgrounds/foodsBg.jpg");
+  background-image: url("foodsBg.jpg");
   height: 90vh;
 }
 
@@ -195,7 +195,7 @@ text-align: left;
 }
 
 #subscribe {
-    background-image: url("../images/subscribe.jpg");
+    background-image: url("subscribe.jpg");
     height: 50vh;
 
 }
