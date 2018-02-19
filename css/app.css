@@ -1,7 +1,6 @@
 #header {
-    background-image: url("images/landing.jpg");
+    background-image: url("landing.jpg");
     height: 90vh;
-
 
 }
 
@@ -101,16 +100,17 @@
 }
 
 .Menu {
-  background-image: url("images/foodsBg.jpg");
+  background-image: url("foodsBg.jpg");
   height: 90vh;
 }
 
 .innermenu {
+  border: 2px solid red;
   width: 75%;
   height: 350px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 250px;
+  margin-top: 200px;
   background-color: white;
   padding-bottom: 50px;
 
@@ -195,7 +195,7 @@ text-align: left;
 }
 
 #subscribe {
-    background-image: url("images/subscribe.jpg");
+    background-image: url("subscribe.jpg");
     height: 50vh;
 
 }
